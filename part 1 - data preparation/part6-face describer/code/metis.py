@@ -5,8 +5,8 @@ from typing import Optional, List, Dict
 
 
 class MetisAIChat:
-    def __init__(self, api_key: str = "tpsg-e9jwaBWRJr5BZKZY2dCpOo9pO8Q4aZ5",
-                 bot_id: str = "9ca06edb-72ba-4e7b-9e51-6e41276a2c4c", base_url: str = "https://api.metisai.ir/api/v1"):
+    def __init__(self, api_key: str = "",
+                 bot_id: str = "", base_url: str = "https://api.metisai.ir/api/v1"):
         self.api_key = api_key
         self.bot_id = bot_id
         self.base_url = base_url

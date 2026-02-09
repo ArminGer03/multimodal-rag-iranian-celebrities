@@ -4,7 +4,7 @@ from typing import Optional
 
 
 class MetisAIChat:
-    def __init__(self, api_key: str = "tpsg-e9jwaBWRJr5BZKZY2dCpOo9pO8Q4aZ5", bot_id: str = "8b7b0008-a937-43a8-82c9-7f9dfd1d5b74", base_url: str = "https://api.metisai.ir/api/v1"):
+    def __init__(self, api_key: str = "", bot_id: str = "", base_url: str = "https://api.metisai.ir/api/v1"):
         self.api_key = api_key
         self.bot_id = bot_id
 
