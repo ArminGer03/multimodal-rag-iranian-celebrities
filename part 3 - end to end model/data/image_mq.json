@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "question": "این شخص کیست و چه فعالیت‌هایی داشته است؟",
+        "image_path": "/content/drive/MyDrive/images_clean/250px-Media_conference_of_Abajan_at_Fajr_festival-8.png",
+        "options": [
+            "سعید آقاخانی - بازیگر، فیلم‌نامه‌نویس و کارگردان سریال نون خ",
+            "حسین پناهی - بازیگر و کارگردان سریال روزگار قریب",
+            "کیومرث صابری - نویسنده و طنزپرداز",
+            "محمد شاهیده پور - کارگردان تلویزیون"
+        ],
+        "correct_answer": 0,
+        "category": "cinema"
+    },
+    {
+        "id": 2,
+        "question": "این هنرمند چه کسی است و در چه سالی درگذشت؟",
+        "image_path": "/content/drive/MyDrive/images_clean/%D9%82%D8%B5%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%DA%A9%DB%8C%D8%B4_%28%DA%A9%D8%B4%D8%AA%DB%8C_%DB%8C%D9%88%D9%86%D8%A7%D9.png",
+        "options": [
+            "حسین پناهی - درگذشته در سال ۱۳۸۳",
+            "سعید آقاخانی - در قید حیات",
+            "کیومرث صابری - درگذشته در سال ۱۳۸۲",
+            "محمد شاهیده پور - در قید حیات"
+        ],
+        "correct_answer": 0,
+        "category": "cinema"
+    },
+    {
+        "id": 3,
+        "question": "این شخصیت با چه نام مستعاری شناخته می‌شد و چه فعالیتی داشت؟",
+        "image_path": "/content/drive/MyDrive/images_clean/Vida_Ghahremani.png",
+        "options": [
+            "ملیحه قهرمانی - بازیگر، طراح و معلم",
+            "حسین پناهی - شاعر و نویسنده",
+            "سعید آقاخانی - کارگردان تلویزیون",
+            "محمد شاهیده پور - استاد دانشگاه"
+        ],
+        "correct_answer": 0,
+        "category": "literature"
+    },
+    {
+        "id": 4,
+        "question": "این شخصیت علمی کیست و بنیان‌گذار چه چیزی بود؟",
+        "image_path": "/content/drive/MyDrive/images_clean/Akbar_Etemad.png",
+        "options": [
+            "اکبر اعتماد - سازمان انرژی اتمی ایران",
+            "کیومرث صابری - دریافت جایزه ادبی",
+            "سعید آقاخانی - دریافت جایزه بهترین کارگردانی",
+            "حسین پناهی - انتشار کتاب علمی"
+        ],
+        "correct_answer": 0,
+        "category": "science"
+    },
+    {
+        "id": 5,
+        "question": "این شخص کیست و در چه حوزه‌ای فعالیت داشته است؟",
+        "image_path": "/content/drive/MyDrive/images_clean/Katozian_at_IWPSA2011.png",
+        "options": [
+            "حمیدرضا کاتوزیان - حقوقدان و استاد دانشگاه",
+            "محمد شاهیده پور - مهندس برق",
+            "سید محمد حسینی - سیاستمدار",
+            "کیومرث صابری - نویسنده"
+        ],
+        "correct_answer": 0,
+        "category": "science"
+    },
+    {
+        "id": 6,
+        "question": "این شخص کیست و چه سمتی داشته است؟",
+        "image_path": "/content/drive/MyDrive/images_clean/Mohammad_Hosseini.png",
+        "options": [
+            "سید محمد حسینی - وزیر",
+            "حمیدرضا کاتوزیان - استاد دانشگاه",
+            "محمد شاهیده پور - رئیس دانشکده",
+            "کیومرث صابری - سردبیر"
+        ],
+        "correct_answer": 0,
+        "category": "politics"
+    },
+    {
+        "id": 7,
+        "question": "این شخصیت که در سال ۱۳۳۷ در تهران متولد شده کیست و در چه زمینه‌ای فعالیت می‌کند؟",
+        "image_path": "/content/drive/MyDrive/images_clean/Saeed_Mohammadi_on_BBC_Persian.png",
+        "options": [
+            "سعید محمدی - خوانندگی، آهنگسازی، ترانه‌سرایی و نوازندگی گیتار",
+            "محمداسماعیل کوثری  - سپاه پاسداران انقلاب اسلامی، سیاستمدار و نماینده مجلس",
+            "محمد دهقان - حقوقدان و سیاستمدار",
+            "محمد شاهیده پور - مهندس برق، نویسنده، ویراستار و عضو فرهنگستان مهندسی "
+        ],
+        "correct_answer": 0,
+        "category": "general"
+    },
+    {
+        "id": 8,
+        "question": "این بازیگر، فیلم‌نامه‌نویس و کارگردان ایرانی کیست و چه نقش‌های تلویزیونی معروفی داشته است؟",
+        "image_path": "/content/drive/MyDrive/images_clean/250px-Media_conference_of_Abajan_at_Fajr_festival-8.png",
+        "options": [
+            "سعید آقاخانی - نقش نورالدین خانزاده در سریال نون خ",
+            "حسین پناهی - نقش در سریال روزگار قریب",
+            "کیومرث صابری - نویسنده گل آقا",
+            "عزت‌الله مهرآوران - بازیگر تئاتر"
+        ],
+        "correct_answer": 0,
+        "category": "cinema"
+    }
+]

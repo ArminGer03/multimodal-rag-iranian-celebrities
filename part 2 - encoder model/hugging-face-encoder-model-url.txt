@@ -1,0 +1,1 @@
+https://huggingface.co/ahm1378/finetune-clip-fa-head

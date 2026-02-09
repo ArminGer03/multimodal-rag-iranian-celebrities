@@ -1,0 +1,16 @@
+,Scope,Count,Accuracy
+0,Overall,50,0.78
+1,Route=text_e5,50,0.78
+2,Category=academic,2,0.5
+3,Category=arts,1,1
+4,Category=cinema,8,0.875
+5,Category=culture,1,1
+6,Category=engineering,1,1
+7,Category=entertainment,1,1
+8,Category=literature,8,0.625
+9,Category=media,1,1
+10,Category=medical,5,1
+11,Category=music,11,0.818181818
+12,Category=politics,4,1
+13,Category=science,5,0.2
+14,Category=technology,2,1
