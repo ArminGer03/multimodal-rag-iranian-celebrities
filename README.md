@@ -1,4 +1,4 @@
-# Mashahir RAG v5 — Reproduction Guide
+# Iranian Celeb RAG system — Reproduction Guide
 
 This repository contains a multi-stage pipeline to prepare data (Part 1), train an encoder model (Part 2), and run an end-to-end model (Part 3) for a RAG-style workflow.
 
